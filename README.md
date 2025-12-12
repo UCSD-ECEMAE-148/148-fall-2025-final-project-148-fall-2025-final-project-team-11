@@ -2,7 +2,7 @@
 ## MAE 148 Final Project
 ### Team 11 Fall 2025
 
-## Team Members:
+## Team Members
 - Matthew Hwang - Mechanical Engineering
 - Andrea Galliano - Aerospace Engineering
 - David Quan - Mechanical Engineering
