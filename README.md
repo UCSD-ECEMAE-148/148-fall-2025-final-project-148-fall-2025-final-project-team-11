@@ -27,7 +27,7 @@ A two degree-of-freedom (DOF) gimbal mechanism accurately follows the selected t
 - Integration of prototyped ignition system for firing rocket engines
 
 ## Demonstration (Video)
-[![ALT_TEXT](https://www.youtube.com/watch?v=F0SaLsRCY6s)]((https://www.youtube.com/watch?v=F0SaLsRCY6s))
+[![Video](https://www.youtube.com/watch?v=F0SaLsRCY6s)]((https://www.youtube.com/watch?v=F0SaLsRCY6s))
 ## Mode Explanations
 - Scanning: Servo pans 180 degreees horizontally to look for targets. System locks onto an object for 3 seconds to identify it as a target, then creates a yellow hitbox around it.
 - Choose: User input determines which target will be targeted (among many targets detected by camera from scanning mode).
