@@ -41,5 +41,8 @@ https://github.com/user-attachments/assets/16eb97ce-2f67-4ed8-98f5-33ec005cf2fc
 ## CAD Model of Servo Mounts
 
 ## Ignition Systems Schematic
+<img width="593" height="396" alt="Ignition system" src="https://github.com/user-attachments/assets/844c7042-6406-4b19-8649-8dae65aab2ba" />
 
-##Electrical Diagram
+## Electric Diagram
+<img width="727" height="414" alt="electrical diagram" src="https://github.com/user-attachments/assets/838ac5c9-671a-4e54-a26b-feed91f9b829" />
+al 
