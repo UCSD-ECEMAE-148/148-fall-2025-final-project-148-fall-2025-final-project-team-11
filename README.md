@@ -1,6 +1,7 @@
 # Autonomous Targeting System (ATS)
 ## MAE 148 Final Project
 ### Team 11 Fall 2025
+<img width="1371" height="321" alt="JSOElogo" src="https://github.com/user-attachments/assets/406e5140-232f-4706-923a-b325d50a7a29" />
 
 ## Team Members
 - Matthew Hwang - Mechanical Engineering
@@ -9,9 +10,6 @@
 - Jose Umana -  Electrical Engineering
 
 ![IMG_7566](https://github.com/user-attachments/assets/3a2fe580-732b-4d61-b3eb-991e242663ce)
-
-(insert an image of our car)
-(insert image of JSOE and UCSD logos somewhere as well)
 
 ## Abstract
 The goal of this project is to develop a targeting system using OpenCV that scans, labels, and locks onto targets of interest, then allows for manual selection of a target. 
