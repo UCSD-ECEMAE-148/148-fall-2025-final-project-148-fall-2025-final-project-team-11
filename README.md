@@ -24,6 +24,7 @@ A two degree-of-freedom (DOF) gimbal mechanism with PID control allows for the a
 - LIDAR and/or OAK-D camera depth mechanisms to access objects as potential targets from far away 
 - Adding an autonomous driving feature to allow the ATS to access and be within accurate firing distance of objects out of range
 - Integration of prototyped ignition system for firing rocket engines
+- Integration of a user targeting system, where the user could choose the preferred target instead of a fixed target type. 
 
 ## Demonstration (Video)
 
