@@ -81,7 +81,7 @@ Special thanks to Professor Silberman, our (very overworked) TA's Aryan & Winsto
 ## Contact Information
 | Team Member    | Email | 
 |-------------|-----------|
-| Andrea Galliano | |
+| Andrea Galliano | andrea.galliano@tum.de |
 | David Quan | davidqquan@gmail.com |
 | Jose Umana | jaumana@ucsd.edu |
 | Matthew Hwang | matthew.hwang97@gmail.com |
