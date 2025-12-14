@@ -59,6 +59,8 @@ https://github.com/user-attachments/assets/16eb97ce-2f67-4ed8-98f5-33ec005cf2fc
 | Gimbal Base | <img width="553" height="468" alt="Screenshot 2025-12-13 at 5 32 34 PM" src="https://github.com/user-attachments/assets/a92b7a30-d7df-42e8-b302-735a6af822b7" />|
 | Gimbal Servo Connectors |<img width="426" height="388" alt="Screenshot 2025-12-13 at 5 33 54 PM" src="https://github.com/user-attachments/assets/4468494d-6b1c-42cd-a146-dc42c4f554dc" />|
 | Gimbal Arm & Camera Mount|<img width="579" height="534" alt="Screenshot 2025-12-13 at 5 34 29 PM" src="https://github.com/user-attachments/assets/491fe772-8ed3-48c9-96fa-414a245f629c" />|
+| Universal Mounting Plate |<img width="866" height="512" alt="Screenshot 2025-12-13 at 6 26 37 PM" src="https://github.com/user-attachments/assets/1d2d927b-80d8-4b86-ad2c-dda433aa1175" />|
+
 
 
 ## Ignition Systems Schematic
@@ -69,7 +71,7 @@ https://github.com/user-attachments/assets/16eb97ce-2f67-4ed8-98f5-33ec005cf2fc
 al 
 
 ## Early Quarter Achievements
-- Donkey Car Autonomous Laps: 
+- Donkey Car Autonomous Laps:
 - Donkey Car GPS Laps: 
 
 ## Acknowledgements
