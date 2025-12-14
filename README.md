@@ -33,7 +33,7 @@ A two degree-of-freedom (DOF) gimbal mechanism with PID control allows for the a
 
 https://github.com/user-attachments/assets/16eb97ce-2f67-4ed8-98f5-33ec005cf2fc
 ## Smart-Cam Feature
-- A feature that was added to increase efficiency and effectiveness of our project was our Smart-Cam implementation. Smart-Cam enables our PID ontrolled gimbal to move the camera in response to a moving target. The speeds of the tracking can be adjusted within the pythoon scripts. Additionally, Smart-Cam is able to recall the direction a target was before it left the field of view of the camera. By recalling this information, it is able to make smart decisions such as automatically scanning for the object again in the direction of where the target has last left.
+- A feature that was added to increase efficiency and effectiveness of our project was our Smart-Cam implementation. Smart-Cam enables our PID ontrolled gimbal to move the camera in response to a moving target. The speeds of the tracking can be adjusted within the Python scripts. Additionally, Smart-Cam is able to recall the direction a target was before it left the field of view of the camera. By recalling this information, it is able to make smart decisions such as automatically scanning for the object again in the direction of where the target has last left.
 
 ## Mode Explanations
 - Mode 1 [Scan Surrounding]: Gimbal pans 180 degreees horizontally to look for targets. If a potential target is found, the system will take 3 seconds to the object as a target in order to avoid false detections. After a target is registered, the target will have a number ID, their stationary position is registered, and their hitbox will turn yellow.
@@ -85,4 +85,4 @@ Special thanks to Professor Silberman, our (very overworked) TA's Aryan & Winsto
 | Andrea Galliano | |
 | David Quan | davidqquan@gmail.com |
 | Jose Umana | |
-| Matthew Hwang | |
+| Matthew Hwang | matthew.hwang97@gmail.com |
