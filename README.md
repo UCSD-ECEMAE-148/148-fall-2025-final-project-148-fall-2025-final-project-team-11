@@ -42,6 +42,10 @@ https://github.com/user-attachments/assets/16eb97ce-2f67-4ed8-98f5-33ec005cf2fc
 
 - Mode 3 [Fire Rocket]: Before the fire command is used, a target should be chosen from mode 2. When the fire command is pressed, a 5 second countdown will begin on the top right corner. Once the countdown reaches 0, their hitbox turns red. This mode represents when our created ignition system would have activated to fire our rocket engine at the desired target.
 
+## RoboFlow Model
+
+<img width="2033" height="1293" alt="RoboFlow" src="https://github.com/user-attachments/assets/f46bbf14-6654-49d2-9df3-2f3dfc7ba864" />
+
 ## Challenges
 - On the softtware side, some challenges we faced were implementing our RoboFlow model to detect our targets (waterbottles) accurately. Because of the quick timeline of this course, we had only trained our models with around one hundred photos. While this model was able to detect waterbottles, it occasionally detected a watch, laptop screen, or bottle-shaped objects for a split second due to the lack of training. Although this was seemingly fine, this issue quickly became a problem when we tried to associate a target with a position, resulting in these objects being remembered as targets. The first solution that came to our minds were to develop a better model. While it would take a substantial amonut of time to add and re-train our model, it would result in targets detected being more accurate. However, an ingenous solution that we arrived at was the 3 second lock-on duration, where objects that were not water bottles could appear quickly, but would not be identified as an object due to being undetected as targets a short moment after.
 
