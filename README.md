@@ -83,5 +83,5 @@ Special thanks to Professor Silberman, our (very overworked) TA's Aryan & Winsto
 |-------------|-----------|
 | Andrea Galliano | |
 | David Quan | davidqquan@gmail.com |
-| Jose Umana | |
+| Jose Umana | jaumana@ucsd.edu |
 | Matthew Hwang | matthew.hwang97@gmail.com |
