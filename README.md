@@ -85,10 +85,10 @@ To find, track and we designed 3 main operating modes:
 Special thanks to Professor Silberman, our (very overworked) TA's Aryan & Winston, and the countless peers who have offered us helpful inisght, motivation, and good company throughout the countless hours and late nights spent on our autonomous car.
 
 ## Contact Information
-| Team Member    | Email | 
-|-------------|-----------|
-| Andrea Galliano | andrea.galliano@tum.de |
-| David Quan | davidqquan@gmail.com |
-| Jose Umana | jaumana@ucsd.edu |
-| Matthew Hwang | matthew.hwang97@gmail.com |
+| Team Member    | Email | Linkedin
+|-------------|-----------|-----------|
+| Andrea Galliano | andrea.galliano@tum.de | https://www.linkedin.com/in/andrea-galliano-427693156/ |
+| David Quan | davidqquan@gmail.com | https://www.linkedin.com/in/iamdavidquan/ |
+| Jose Umana | jaumana@ucsd.edu | www.linkedin.com/in/angeloumana |
+| Matthew Hwang | matthew.hwang97@gmail.com | https://www.linkedin.com/in/matthewhwang97/ | 
 
