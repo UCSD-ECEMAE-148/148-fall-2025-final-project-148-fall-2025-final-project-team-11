@@ -71,8 +71,11 @@ https://github.com/user-attachments/assets/16eb97ce-2f67-4ed8-98f5-33ec005cf2fc
 al 
 
 ## Early Quarter Achievements
+- Donkey Car Autonomous Laps: 
+- Donkey Car GPS Laps: 
 
 ## Acknowledgements
+Special thanks to Professor Silberman, our (overwoked) TA's Aryan & Winston, and the countless peers who have offered us inisght, motivation, and good company throughout the countless hours and late nights spent on our autonomous car.
 
 ## Contact Information
 | Team Member    | Email |
