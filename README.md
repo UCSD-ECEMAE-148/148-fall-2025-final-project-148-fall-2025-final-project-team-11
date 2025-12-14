@@ -6,7 +6,9 @@
 - Matthew Hwang - Mechanical Engineering
 - Andrea Galliano - Aerospace Engineering
 - David Quan - Mechanical Engineering
-- Jose Umana -  Electrical Engineering 
+- Jose Umana -  Electrical Engineering
+
+![IMG_7566](https://github.com/user-attachments/assets/3a2fe580-732b-4d61-b3eb-991e242663ce)
 
 (insert an image of our car)
 (insert image of JSOE and UCSD logos somewhere as well)
